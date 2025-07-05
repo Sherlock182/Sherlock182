@@ -30,7 +30,7 @@
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
 | Toolkit_Windows_Pro | App gratuita para mantenimiento, reparación y automatización en Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
-| Win-Health-Checker | Diagnóstico de archivos del sistema y análisis de disco SSD/HDD. | [🔗 Ver en GitHub](https://github.com/Sherlock182/Win-Health-Checker) |
+| Asistente_Professor | Asistente de herramientas para profesores de primaria | [🔗 Ver en GitHub](https://github.com/Sherlock182/Win-Health-Checker) |
 
 ---
 
