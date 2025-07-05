@@ -7,7 +7,7 @@
 
 <p align="center">
   🎓 Estudiante de Ingeniería Industrial | 🧠 Apasionado por la automatización y la mejora de procesos con tecnología  
-  🧰 Creador de <strong>Toolkit</strong>, una app gratuita para optimizar el rendimiento de Windows  
+  🧰 Creador de <strong>Toolkit_Windows_Pro</strong>, una app gratuita para optimizar el rendimiento de Windows  
   📍 Basado en El Salvador  
 </p>
 
@@ -29,7 +29,7 @@
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| Toolkit  | App gratuita para mantenimiento, reparación y automatización en Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
+| Toolkit_Windows_Pro | App gratuita para mantenimiento, reparación y automatización en Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
 | Win-Health-Checker | Diagnóstico de archivos del sistema y análisis de disco SSD/HDD. | [🔗 Ver en GitHub](https://github.com/Sherlock182/Win-Health-Checker) |
 
 ---
