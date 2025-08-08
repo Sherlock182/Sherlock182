@@ -30,7 +30,7 @@
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
 | Toolkit_Windows_Pro | App gratuita para mantenimiento, reparación y automatización en Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
-| Asistente_Professor | Asistente de herramientas para profesores de primaria | [🔗 Ver en GitHub](https://github.com/Sherlock182/Win-Health-Checker) |
+| Google-Doodle | Cambia el logo de google por tu logo personalizado | [🔗 Ver en GitHub](https://github.com/Sherlock182/Google-Doodle) |
 
 ---
 
