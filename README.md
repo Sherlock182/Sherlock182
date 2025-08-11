@@ -6,9 +6,9 @@
 <h1 align="center">¡Hola! Soy <strong>Oseas Nahun Montalvo Rogel</strong> 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de Ingeniería Industrial | 🧠 Apasionado por la automatización y la mejora de procesos con tecnología  
-  🧰 Creador de <strong>Toolkit_Windows_Pro</strong>, una app gratuita para optimizar el rendimiento de Windows  
-  📍 Basado en El Salvador  
+  🎓 Estudiante de <strong>Ingeniería Industrial</strong> | 🧠 Apasionado por la automatización y la mejora de procesos con tecnología  
+  🧰 Creador de <strong>Toolkit_Windows_Pro</strong>, una app gratuita para optimizar y automatizar Windows  
+  📍 Basado en <strong>El Salvador</strong>  
 </p>
 
 ---
@@ -29,8 +29,8 @@
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| Toolkit_Windows_Pro |Free app for maintenance, repair, and automation on Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
-| Google-Doodle |Replace Google Logo UserScript | [🔗 Ver en GitHub](https://github.com/Sherlock182/Google-Doodle) |
+| **Toolkit_Windows_Pro** | Aplicación gratuita para mantenimiento, reparación y automatización en Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
+| **Google-Doodle** | Script para reemplazar el logo de Google por imágenes personalizadas. | [🔗 Ver en GitHub](https://github.com/Sherlock182/Google-Doodle) |
 
 ---
 
@@ -52,11 +52,11 @@
 <details>
 <summary>Haz clic para ver mis objetivos</summary>
 
-- [x] Publicar Toolkit v1.0  
-- [ ] Crear una interfaz gráfica en PowerShell  
-- [ ] Automatizar instalación de herramientas comunes  
-- [ ] Obtener certificación Six Sigma Green Belt  
-- [ ] Aprender fundamentos de C++
+- [x] Publicar **Toolkit v1.0**  
+- [ ] Crear una interfaz gráfica en **PowerShell**  
+- [ ] Automatizar la instalación de herramientas comunes  
+- [ ] Obtener certificación **Six Sigma Green Belt**  
+- [ ] Aprender fundamentos de **C++**
 
 </details>
 
@@ -71,3 +71,4 @@
   <a href="https://www.facebook.com/oseas.nahun.montalvo.rogel" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Oseas_Nahun_Montalvo-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
+</p>
