@@ -1,19 +1,20 @@
-<!-- Banner principal -->
+<!-- Matrix-style README (green & black theme) -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sherlock182/Sherlock182/main/banner.png" width="100%" alt="Banner de Oseas Nahun Montalvo Rogel">
+  <img src="./banner.svg" width="100%" alt="Matrix Banner - Oseas Nahun Montalvo Rogel"/>
 </p>
 
-<h1 align="center">¡Hola! Soy <strong>Oseas Nahun Montalvo Rogel</strong> 👋</h1>
+<h1 align="center">Hi there! 👋 I'm <strong>Oseas Nahun Montalvo Rogel</strong></h1>
 
-<p align="center">
-  🎓 Estudiante de Ingeniería Industrial | 🧠 Apasionado por la automatización y la mejora de procesos con tecnología  
-  🧰 Creador de <strong>Toolkit_Windows_Pro</strong>, una app gratuita para optimizar el rendimiento de Windows  
-  📍 Basado en El Salvador  
+<p align="center" style="color:#39ff14; background:#000; padding:8px; border-radius:8px;">
+  🎓 Industrial Engineering Student | 🧠 Passionate about automation & process improvement with technology  
+  🧰 Creator of <strong>Toolkit_Windows_Pro</strong>, a free app to optimize Windows performance  
+  📍 Based in El Salvador  
 </p>
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-0078d7?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -25,16 +26,16 @@
 
 ---
 
-## 🧰 Proyectos destacados
+## 🧰 Featured Projects
 
-| Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-| Toolkit_Windows_Pro |Free app for maintenance, repair, and automation on Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
-| Google-Doodle |Replace Google Logo UserScript | [🔗 Ver en GitHub](https://github.com/Sherlock182/Google-Doodle) |
+| Project | Description | Link |
+|---------|-------------|------|
+| **Toolkit_Windows_Pro** | Free app for maintenance, repair, and automation on Windows. | [🔗 View on GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
+| **Google-Doodle** | UserScript to replace the Google logo with custom designs. | [🔗 View on GitHub](https://github.com/Sherlock182/Google-Doodle) |
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sherlock182&show_icons=true&theme=radical" height="165"/>
@@ -47,27 +48,28 @@
 
 ---
 
-## 🎯 Objetivos de desarrollo
+## 🎯 Development Goals
 
 <details>
-<summary>Haz clic para ver mis objetivos</summary>
+<summary>Click to view my goals</summary>
 
-- [x] Publicar Toolkit v1.0  
-- [ ] Crear una interfaz gráfica en PowerShell  
-- [ ] Automatizar instalación de herramientas comunes  
-- [ ] Obtener certificación Six Sigma Green Belt  
-- [ ] Aprender fundamentos de C++
+- [x] Publish **Toolkit v1.0**  
+- [ ] Create a GUI in **PowerShell**  
+- [ ] Automate installation of common tools  
+- [ ] Earn **Six Sigma Green Belt** certification  
+- [ ] Learn **C++** fundamentals  
 
 </details>
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oseas-nahun-montalvo-rogel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Oseas_Nahun_Montalvo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Oseas%20Nahun%20Montalvo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/oseas.nahun.montalvo.rogel" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Oseas_Nahun_Montalvo-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-Oseas%20Nahun%20Montalvo-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
+</p>
