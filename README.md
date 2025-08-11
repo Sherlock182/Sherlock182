@@ -20,14 +20,14 @@
   🧰 Creator of <b>Toolkit_Windows_Pro</b> • 📍 <b>El Salvador</b>
 </p>
 
-<!-- Divider -->
+<!-- Clean divider (no binary text) -->
 <p align="center">
-  <img alt="binary divider" src="https://svg-banners.vercel.app/api?type=glitch&text1=SYSTEM%20ONLINE&width=800&height=80&fontSize=28">
+  <img alt="divider" src="https://svg-banners.vercel.app/api?type=glitch&text1=SYSTEM%20ONLINE&width=800&height=80&fontSize=28">
 </p>
 
 ## 🌍 About Me
 
-I am an Industrial Engineering student passionate about integrating technology into operational processes to optimize performance, automate repetitive tasks, and improve overall efficiency. My work blends analytical thinking with tools like PowerShell and Python to deliver practical, high-impact solutions.
+I am an Industrial Engineering student focused on integrating technology into operational processes to optimize performance, automate repetitive tasks, and enhance efficiency. I blend analytical thinking with tools like PowerShell and Python to deliver practical, high-impact solutions.
 
 ---
 
@@ -48,13 +48,13 @@ I am an Industrial Engineering student passionate about integrating technology i
 <table align="center">
   <tr>
     <!-- CARD 1 -->
-    <td width="33%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
+    <td width="50%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
       <p align="center">
         <img src="https://raw.githubusercontent.com/Sherlock182/-Toolkit-Windows-Pro/main/.github/preview.png" alt="Toolkit_Windows_Pro" width="100%">
       </p>
       <h3 align="center">Toolkit_Windows_Pro</h3>
-      <p align="left">
-        Free app for Windows maintenance, repair, and automation (CHKDSK, SFC, DISM, cleanup, Defender offline, service management).
+      <p>
+        Free app for Windows maintenance, repair, and automation (CHKDSK, SFC, DISM, deep cleanup, Defender offline, service/process management).
       </p>
       <p>
         <img src="https://img.shields.io/badge/PowerShell-00ff88?style=flat&logo=powershell&logoColor=0a0a0a">
@@ -69,13 +69,13 @@ I am an Industrial Engineering student passionate about integrating technology i
     </td>
 
     <!-- CARD 2 -->
-    <td width="33%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
+    <td width="50%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
       <p align="center">
         <img src="https://raw.githubusercontent.com/Sherlock182/Google-Doodle/main/preview.png" alt="Google-Doodle" width="100%">
       </p>
       <h3 align="center">Google-Doodle</h3>
-      <p align="left">
-        UserScript to replace the Google logo with a custom image on both homepage and search results.
+      <p>
+        UserScript that replaces the Google logo with a custom image on both the homepage and the search results page.
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-00ff88?style=flat&logo=javascript&logoColor=0a0a0a">
@@ -83,26 +83,6 @@ I am an Industrial Engineering student passionate about integrating technology i
       </p>
       <p align="center">
         <a href="https://github.com/Sherlock182/Google-Doodle">
-          <img alt="GitHub" src="https://img.shields.io/badge/Repository-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
-        </a>
-      </p>
-    </td>
-
-    <!-- CARD 3 -->
-    <td width="33%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Sherlock182/Sherlock182/main/.github/placeholder-dark-green.png" alt="New Project" width="100%">
-      </p>
-      <h3 align="center">New Project</h3>
-      <p align="left">
-        Short description here (goal, impact, technologies).
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Stack-00ff88?style=flat">
-        <img src="https://img.shields.io/badge/Status-Prototype-00ff88?style=flat&labelColor=0a0a0a">
-      </p>
-      <p align="center">
-        <a href="#">
           <img alt="GitHub" src="https://img.shields.io/badge/Repository-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
         </a>
       </p>
