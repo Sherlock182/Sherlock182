@@ -1,123 +1,73 @@
-<!-- =========================================================
-   README • Hacker/Binary Theme (English Only)
-   By Oseas Nahun Montalvo Rogel
-   ========================================================= -->
-
-<!-- Banner -->
+<!-- Banner principal -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sherlock182/Sherlock182/main/banner.png" width="100%" alt="Banner of Oseas Nahun Montalvo Rogel">
+  <img src="https://raw.githubusercontent.com/Sherlock182/Sherlock182/main/banner.png" width="100%" alt="Banner de Oseas Nahun Montalvo Rogel">
 </p>
 
-<!-- Typing intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Industrial+Engineering+Student;Automation+%26+Windows+Toolkit+Developer;Process+Improvement+%7C+Scripts+%7C+PowerShell+%7C+Python" alt="typing animation">
-</p>
-
-<h1 align="center">Hello! I'm <strong>Oseas Nahun Montalvo Rogel</strong> 👋</h1>
+<h1 align="center">¡Hola! Soy <strong>Oseas Nahun Montalvo Rogel</strong> 👋</h1>
 
 <p align="center">
-  🎓 <b>Industrial Engineering Student</b> • 🧠 <b>Automation & Process Improvement</b><br>
-  🧰 Creator of <b>Toolkit_Windows_Pro</b> • 📍 <b>El Salvador</b>
-</p>
-
-<!-- Clean divider (no binary text) -->
-<p align="center">
-  <img alt="divider" src="https://svg-banners.vercel.app/api?type=glitch&text1=SYSTEM%20ONLINE&width=800&height=80&fontSize=28">
-</p>
-
-## 🌍 About Me
-
-I am an Industrial Engineering student focused on integrating technology into operational processes to optimize performance, automate repetitive tasks, and enhance efficiency. I blend analytical thinking with tools like PowerShell and Python to deliver practical, high-impact solutions.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-00ff88?style=for-the-badge&logo=powershell&logoColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Python-00ff88?style=for-the-badge&logo=python&logoColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Git-00ff88?style=for-the-badge&logo=git&logoColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/VS%20Code-00ff88?style=for-the-badge&logo=visual-studio-code&logoColor=0a0a0a"/>
-  <img src="https://img.shields.io/badge/Windows-00ff88?style=for-the-badge&logo=windows&logoColor=0a0a0a"/>
+  🎓 Estudiante de Ingeniería Industrial | 🧠 Apasionado por la automatización y la mejora de procesos con tecnología  
+  🧰 Creador de <strong>Toolkit_Windows_Pro</strong>, una app gratuita para optimizar el rendimiento de Windows  
+  📍 Basado en El Salvador  
 </p>
 
 ---
 
-## 📂 Featured Projects
-
-<table align="center">
-  <tr>
-    <!-- CARD 1 -->
-    <td width="50%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Sherlock182/-Toolkit-Windows-Pro/main/.github/preview.png" alt="Toolkit_Windows_Pro" width="100%">
-      </p>
-      <h3 align="center">Toolkit_Windows_Pro</h3>
-      <p>
-        Free app for Windows maintenance, repair, and automation (CHKDSK, SFC, DISM, deep cleanup, Defender offline, service/process management).
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell-00ff88?style=flat&logo=powershell&logoColor=0a0a0a">
-        <img src="https://img.shields.io/badge/Automation-00ff88?style=flat">
-        <img src="https://img.shields.io/badge/Windows-00ff88?style=flat&logo=windows&logoColor=0a0a0a">
-      </p>
-      <p align="center">
-        <a href="https://github.com/Sherlock182/-Toolkit-Windows-Pro">
-          <img alt="GitHub" src="https://img.shields.io/badge/Repository-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
-        </a>
-      </p>
-    </td>
-
-    <!-- CARD 2 -->
-    <td width="50%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Sherlock182/Google-Doodle/main/preview.png" alt="Google-Doodle" width="100%">
-      </p>
-      <h3 align="center">Google-Doodle</h3>
-      <p>
-        UserScript that replaces the Google logo with a custom image on both the homepage and the search results page.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-00ff88?style=flat&logo=javascript&logoColor=0a0a0a">
-        <img src="https://img.shields.io/badge/UserScript-00ff88?style=flat">
-      </p>
-      <p align="center">
-        <a href="https://github.com/Sherlock182/Google-Doodle">
-          <img alt="GitHub" src="https://img.shields.io/badge/Repository-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+## 🚀 Tecnologías que uso
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sherlock182&show_icons=true&theme=radical&title_color=00ff88&icon_color=00ff88" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherlock182&theme=dark&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="165"/>
+  <img src="https://img.shields.io/badge/PowerShell-0078d7?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-00adef?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 Roadmap
+## 🧰 Proyectos destacados
 
-- [x] Release Toolkit v1.0  
-- [ ] Create a GUI in PowerShell  
-- [ ] Automate installation of common tools  
-- [ ] Obtain Six Sigma Green Belt certification  
-- [ ] Learn C++ fundamentals  
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| Toolkit_Windows_Pro |Free app for maintenance, repair, and automation on Windows. | [🔗 Ver en GitHub](https://github.com/Sherlock182/-Toolkit-Windows-Pro) |
+| Google-Doodle |Replace Google Logo UserScript | [🔗 Ver en GitHub](https://github.com/Sherlock182/Google-Doodle) |
 
 ---
 
-## 📫 Contact
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sherlock182&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherlock182&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sherlock182&row=1&margin-w=10&theme=radical"/>
+</p>
+
+---
+
+## 🎯 Objetivos de desarrollo
+
+<details>
+<summary>Haz clic para ver mis objetivos</summary>
+
+- [x] Publicar Toolkit v1.0  
+- [ ] Crear una interfaz gráfica en PowerShell  
+- [ ] Automatizar instalación de herramientas comunes  
+- [ ] Obtener certificación Six Sigma Green Belt  
+- [ ] Aprender fundamentos de C++
+
+</details>
+
+---
+
+## 📫 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oseas-nahun-montalvo-rogel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Oseas_Nahun_Montalvo-00ff88?style=for-the-badge&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a">
+    <img src="https://img.shields.io/badge/LinkedIn-Oseas_Nahun_Montalvo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/oseas.nahun.montalvo.rogel" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Oseas_Nahun_Montalvo-00ff88?style=for-the-badge&logo=facebook&logoColor=0a0a0a&labelColor=0a0a0a">
+    <img src="https://img.shields.io/badge/Facebook-Oseas_Nahun_Montalvo-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-</p>
