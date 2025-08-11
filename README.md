@@ -1,9 +1,9 @@
 <!-- =========================================================
-   README • Hacker/Binary Theme with Bilingual Content
+   README • Hacker/Binary Theme (English Only)
    By Oseas Nahun Montalvo Rogel
    ========================================================= -->
 
-<!-- Banner principal -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sherlock182/Sherlock182/main/banner.png" width="100%" alt="Banner of Oseas Nahun Montalvo Rogel">
 </p>
@@ -16,35 +16,22 @@
 <h1 align="center">Hello! I'm <strong>Oseas Nahun Montalvo Rogel</strong> 👋</h1>
 
 <p align="center">
-  🎓 <b>Industrial Engineering Student</b> • 🧠 <b>Automation + Process Improvement</b><br>
+  🎓 <b>Industrial Engineering Student</b> • 🧠 <b>Automation & Process Improvement</b><br>
   🧰 Creator of <b>Toolkit_Windows_Pro</b> • 📍 <b>El Salvador</b>
 </p>
 
-<h1 align="center">¡Hola! Soy <strong>Oseas Nahun Montalvo Rogel</strong> 👋</h1>
-
+<!-- Divider -->
 <p align="center">
-  🎓 <b>Estudiante de Ingeniería Industrial</b> • 🧠 <b>Automatización + Mejora de Procesos</b><br>
-  🧰 Creador de <b>Toolkit_Windows_Pro</b> • 📍 <b>El Salvador</b>
+  <img alt="binary divider" src="https://svg-banners.vercel.app/api?type=glitch&text1=SYSTEM%20ONLINE&width=800&height=80&fontSize=28">
 </p>
+
+## 🌍 About Me
+
+I am an Industrial Engineering student passionate about integrating technology into operational processes to optimize performance, automate repetitive tasks, and improve overall efficiency. My work blends analytical thinking with tools like PowerShell and Python to deliver practical, high-impact solutions.
 
 ---
 
-<!-- Binary divider -->
-<p align="center">
-  <img alt="binary divider" src="https://svg-banners.vercel.app/api?type=glitch&text1=0101010101010101&width=800&height=80&fontSize=28">
-</p>
-
-## 🌍 About Me | Sobre mí
-
-**EN:**  
-I am an Industrial Engineering student focused on integrating technology into operational processes to optimize performance, automate repetitive tasks, and enhance efficiency. My work combines analytical thinking with technological tools such as PowerShell and Python to deliver practical, high-impact solutions.  
-
-**ES:**  
-Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en procesos operativos para optimizar el rendimiento, automatizar tareas repetitivas y mejorar la eficiencia. Combino el pensamiento analítico con herramientas tecnológicas como PowerShell y Python para ofrecer soluciones prácticas y de alto impacto.
-
----
-
-## 🛠️ Tech Stack | Tecnologías
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerShell-00ff88?style=for-the-badge&logo=powershell&logoColor=0a0a0a"/>
@@ -54,15 +41,9 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
   <img src="https://img.shields.io/badge/Windows-00ff88?style=for-the-badge&logo=windows&logoColor=0a0a0a"/>
 </p>
 
-**EN:** Tools I use daily for development, automation, and project management.  
-**ES:** Herramientas que utilizo diariamente para desarrollo, automatización y gestión de proyectos.
-
 ---
 
-## 📂 Featured Projects | Proyectos Destacados
-
-**EN:** Below are some highlighted repositories. You can duplicate the cards to add more projects.  
-**ES:** A continuación, algunos repositorios destacados. Puedes duplicar las tarjetas para agregar más proyectos.
+## 📂 Featured Projects
 
 <table align="center">
   <tr>
@@ -73,8 +54,7 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
       </p>
       <h3 align="center">Toolkit_Windows_Pro</h3>
       <p align="left">
-        **EN:** Free app for Windows maintenance, repair, and automation (CHKDSK, SFC, DISM, cleanup, Defender offline, services).<br>
-        **ES:** Aplicación gratuita para mantenimiento, reparación y automatización de Windows (CHKDSK, SFC, DISM, limpieza, Defender offline, servicios).
+        Free app for Windows maintenance, repair, and automation (CHKDSK, SFC, DISM, cleanup, Defender offline, service management).
       </p>
       <p>
         <img src="https://img.shields.io/badge/PowerShell-00ff88?style=flat&logo=powershell&logoColor=0a0a0a">
@@ -83,7 +63,7 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
       </p>
       <p align="center">
         <a href="https://github.com/Sherlock182/-Toolkit-Windows-Pro">
-          <img alt="GitHub" src="https://img.shields.io/badge/Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
+          <img alt="GitHub" src="https://img.shields.io/badge/Repository-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
         </a>
       </p>
     </td>
@@ -95,8 +75,7 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
       </p>
       <h3 align="center">Google-Doodle</h3>
       <p align="left">
-        **EN:** UserScript to replace the Google logo with a custom image on homepage and search results.<br>
-        **ES:** UserScript para reemplazar el logo de Google por una imagen personalizada en la página principal y los resultados.
+        UserScript to replace the Google logo with a custom image on both homepage and search results.
       </p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-00ff88?style=flat&logo=javascript&logoColor=0a0a0a">
@@ -104,20 +83,19 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
       </p>
       <p align="center">
         <a href="https://github.com/Sherlock182/Google-Doodle">
-          <img alt="GitHub" src="https://img.shields.io/badge/Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
+          <img alt="GitHub" src="https://img.shields.io/badge/Repository-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
         </a>
       </p>
     </td>
 
-    <!-- CARD 3 (placeholder) -->
+    <!-- CARD 3 -->
     <td width="33%" style="border:1px solid #00ff8899; border-radius:14px; padding:14px; vertical-align:top;">
       <p align="center">
         <img src="https://raw.githubusercontent.com/Sherlock182/Sherlock182/main/.github/placeholder-dark-green.png" alt="New Project" width="100%">
       </p>
-      <h3 align="center">New Project | Nuevo Proyecto</h3>
+      <h3 align="center">New Project</h3>
       <p align="left">
-        **EN:** Short description here.<br>
-        **ES:** Breve descripción aquí.
+        Short description here (goal, impact, technologies).
       </p>
       <p>
         <img src="https://img.shields.io/badge/Stack-00ff88?style=flat">
@@ -125,7 +103,7 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
       </p>
       <p align="center">
         <a href="#">
-          <img alt="GitHub" src="https://img.shields.io/badge/Repo-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
+          <img alt="GitHub" src="https://img.shields.io/badge/Repository-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0a0a0a&color=00ff88">
         </a>
       </p>
     </td>
@@ -134,10 +112,7 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
 
 ---
 
-## 📊 GitHub Stats | Estadísticas de GitHub
-
-**EN:** My GitHub activity and achievements.  
-**ES:** Mi actividad y logros en GitHub.
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sherlock182&show_icons=true&theme=radical&title_color=00ff88&icon_color=00ff88" height="165"/>
@@ -146,20 +121,17 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
 
 ---
 
-## 🎯 Roadmap | Hoja de ruta
+## 🎯 Roadmap
 
-**EN:** Upcoming goals and milestones.  
-**ES:** Metas y objetivos próximos.
-
-- [x] Release Toolkit v1.0 | Publicar Toolkit v1.0  
-- [ ] GUI in PowerShell | GUI en PowerShell  
-- [ ] Automate common tool installation | Automatizar instalación de herramientas comunes  
-- [ ] Six Sigma Green Belt certification | Certificación Six Sigma Green Belt  
-- [ ] Learn C++ basics | Aprender fundamentos de C++
+- [x] Release Toolkit v1.0  
+- [ ] Create a GUI in PowerShell  
+- [ ] Automate installation of common tools  
+- [ ] Obtain Six Sigma Green Belt certification  
+- [ ] Learn C++ fundamentals  
 
 ---
 
-## 📫 Contact | Contacto
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oseas-nahun-montalvo-rogel" target="_blank">
@@ -169,7 +141,3 @@ Soy estudiante de Ingeniería Industrial enfocado en integrar la tecnología en 
     <img src="https://img.shields.io/badge/Facebook-Oseas_Nahun_Montalvo-00ff88?style=for-the-badge&logo=facebook&logoColor=0a0a0a&labelColor=0a0a0a">
   </a>
 </p>
-
----
-
-<p align="center"><sub>01001000 01100001 01100011 01101011 00100000 01110110 01101001 01100010 01100101</sub></p>
