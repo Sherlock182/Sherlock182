@@ -61,12 +61,13 @@
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sherlock182&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherlock182&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sherlock182&row=1&margin-w=10&theme=radical"/>
+  <img src="https://img.shields.io/github/followers/Sherlock182?style=for-the-badge&color=8250df&label=Seguidores&logo=github"/>
+  <img src="https://img.shields.io/github/stars/Sherlock182?style=for-the-badge&color=ffce3d&label=Estrellas%20totales&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=Sherlock182&style=for-the-badge&color=blueviolet&label=Visitas+al+perfil"/>
 </p>
 
 ---
