@@ -1,9 +1,13 @@
 <h1 align="center">¡Hola! Soy Oseas Nahun Montalvo Rogel 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de Ingeniería Industrial &nbsp;|&nbsp; ⚙️ Automatización, mejora continua y análisis de datos<br/>
-  🧰 Creador de <strong>Toolkit_Windows_Pro</strong>, una app gratuita para mantenimiento y optimización de Windows<br/>
-  📍 El Salvador
+  <a href="https://github.com/Sherlock182">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenieria+Industrial;Automatizacion%2C+Python+y+PowerShell;Creador+de+Toolkit_Windows_Pro" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  📍 El Salvador &nbsp;|&nbsp; ⚙️ Automatización, mejora continua y análisis de datos
 </p>
 
 <p align="center">
@@ -17,16 +21,19 @@
 
 ---
 
+### 🧑‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería Industrial**, enfocado en el cruce entre procesos, automatización y tecnología.
+- ⚙️ Actualmente trabajando en herramientas de mantenimiento y automatización para Windows con **Python** y **PowerShell**.
+- 🌱 Aprendiendo fundamentos de **C++** y buscando mi certificación **Six Sigma Green Belt**.
+- 💬 Escríbeme sobre automatización, mejora de procesos o proyectos open source.
+
+---
+
 ### 🚀 Tecnologías que uso
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,powershell,js,html,git,vscode,windows" alt="Skills"/>
 </p>
 
 ---
@@ -69,6 +76,12 @@
   <img src="https://img.shields.io/github/stars/Sherlock182?style=for-the-badge&color=ffce3d&label=Estrellas%20totales&logo=github"/>
   <img src="https://komarev.com/ghpvc/?username=Sherlock182&style=for-the-badge&color=blueviolet&label=Visitas+al+perfil"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sherlock182/Sherlock182/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sherlock182/Sherlock182/output/github-contribution-grid-snake.svg" />
+  <img align="center" alt="Snake animation de contribuciones" src="https://raw.githubusercontent.com/Sherlock182/Sherlock182/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
