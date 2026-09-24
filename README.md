@@ -46,6 +46,7 @@
     <td width="60%">
       <a href="https://github.com/Sherlock182/ventoy-theme-template"><strong>Ventoy Theme Template</strong></a>
       &nbsp;
+      <a href="https://github.com/Sherlock182/ventoy-theme-template/releases"><img src="https://img.shields.io/github/v/release/Sherlock182/ventoy-theme-template?style=flat-square&color=8250df" alt="Versión"/></a>
       <img src="https://img.shields.io/github/last-commit/Sherlock182/ventoy-theme-template?style=flat-square&color=555" alt="Último commit"/>
       <br/>
       Plantilla de tema en español para USB multiarranque con Ventoy: el menú queda organizado por categorías, con iconos y descripciones, en lugar de una lista de nombres de archivo. Incluye un generador en Python que rehace el logo, el fondo, las piezas del menú y los 52 iconos con la marca y el color que elijas, para tres resoluciones.
