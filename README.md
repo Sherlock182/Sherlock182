@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sherlock182">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenieria+Industrial;Automatizacion+con+Python+y+PowerShell;Apps+moviles+con+React+Native+e+IA;Creador+de+Toolkit_Windows_Pro" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenieria+Industrial;Automatizacion+con+Python+y+PowerShell;Apps+moviles+con+React+Native+e+IA;Creador+de+Toolkit_Windows_Pro;Kits+de+arranque+y+rescate+con+Ventoy" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -44,6 +44,19 @@
 <table>
   <tr>
     <td width="60%">
+      <a href="https://github.com/Sherlock182/kit-de-herramientas-ventoy"><strong>Kit de Herramientas para Ventoy</strong></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/last-commit/Sherlock182/kit-de-herramientas-ventoy?style=flat-square&color=555" alt="Último commit"/>
+      <br/>
+      Tema en español para memorias USB multiarranque con Ventoy: el menú queda organizado por categorías, con iconos y descripciones, en lugar de una lista de nombres de archivo. Incluye un generador en Python que rehace el logo, el fondo, las piezas del menú y los 52 iconos con la marca y el color que elijas, para tres resoluciones.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pillow-11557C?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GRUB2-2A2A2A?style=flat-square&logo=gnu&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Sherlock182/asistente-biblico-debates"><strong>Asistente Bíblico para Debates</strong></a>
       &nbsp;
       <a href="https://github.com/Sherlock182/asistente-biblico-debates/releases"><img src="https://img.shields.io/github/v/release/Sherlock182/asistente-biblico-debates?style=flat-square&color=8250df" alt="Versión"/></a>
@@ -114,6 +127,7 @@
 - [x] Publicar Toolkit_Windows_Pro v1.0
 - [x] Publicar extensión Google-Doodle
 - [x] Lanzar mi primera app móvil con React Native
+- [x] Publicar un tema personalizable para Ventoy
 - [ ] Crear una interfaz gráfica en PowerShell
 - [ ] Automatizar instalación de herramientas comunes
 - [ ] Obtener certificación Six Sigma Green Belt
