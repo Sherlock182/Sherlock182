@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Sherlock182">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenieria+Industrial;Automatizacion+con+Python+y+PowerShell;Apps+moviles+con+React+Native+e+IA;Creador+de+Biblioteca+Digital;Creador+de+Toolkit_Windows_Pro;Plantillas+y+temas+para+Ventoy" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenieria+Industrial;Automatizacion+con+Python+y+PowerShell;Apps+moviles+con+React+Native+e+IA;Biblia+Etiope+de+88+libros+en+mi+app;Creador+de+Biblioteca+Digital;Creador+de+Toolkit_Windows_Pro;Plantillas+y+temas+para+Ventoy" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -49,7 +49,7 @@
       <a href="https://github.com/Sherlock182/Biblioteca-Digital/releases"><img src="https://img.shields.io/github/v/release/Sherlock182/Biblioteca-Digital?style=flat-square&color=8250df" alt="Versión"/></a>
       <img src="https://img.shields.io/github/last-commit/Sherlock182/Biblioteca-Digital?style=flat-square&color=555" alt="Último commit"/>
       <br/>
-      App móvil que funciona sin internet con tres Biblias completas (Reina-Valera 1960, Biblia Católica Platense de Mons. Straubinger y Nueva Biblia Viva) y un lector de PDF con lectura en voz alta. Rechaza los PDF escaneados o con texto mal escrito, sigue leyendo con la pantalla apagada y recuerda dónde te quedaste. Incluye temas, tamaño de letra y versículo del día.
+      App móvil que funciona sin internet con siete Biblias completas: Reina-Valera 1960, Católica Platense (Mons. Straubinger), Nueva Biblia Viva, La Biblia de las Américas, Reina-Valera Contemporánea, NVI y la <strong>Biblia Etíope de 88 libros</strong> (Antiguo, Nuevo y Apócrifos). Su lector de PDF lee en voz alta incluso con la pantalla apagada y marca en verde la frase que va leyendo; los enlaces del índice llevan al libro y recuerda dónde te quedaste. Comparte versículos como imágenes con 6 diseños, en formato cuadrado o historia. Incluye búsqueda, marcadores, temas, tamaño de letra y versículo del día.
       <br/><br/>
       <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
