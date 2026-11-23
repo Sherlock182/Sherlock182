@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Sherlock182">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenieria+Industrial;Automatizacion+con+Python+y+PowerShell;Apps+moviles+con+React+Native+e+IA;Biblia+Etiope+de+88+libros+en+mi+app;Creador+de+Biblioteca+Digital;Creador+de+Toolkit_Windows_Pro;Plantillas+y+temas+para+Ventoy" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=D4AF37&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenieria+Industrial;Sistema+de+ventas+POS+en+Excel+y+SQLite;Asistente+Virtual+Educativo+con+IA;Automatizacion+con+Python+y+PowerShell;Apps+moviles+con+React+Native+e+IA;Biblia+Etiope+de+88+libros+en+mi+app;Creador+de+Biblioteca+Digital;Creador+de+Toolkit_Windows_Pro;Plantillas+y+temas+para+Ventoy;Biblias+completas+en+JSON" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -26,7 +26,8 @@
 ### 🧑‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería Industrial**, enfocado en el cruce entre procesos, automatización y tecnología.
-- 🖥️ Construyo herramientas de escritorio para Windows con **Python** y **PowerShell**.
+- 🖥️ Construyo herramientas de escritorio para Windows con **Python** y **PowerShell**, como un asistente virtual para docentes.
+- 🧾 Creo sistemas de gestión para negocios en **Excel/VBA + SQLite**, como un punto de venta completo para tiendas.
 - 📱 Desarrollo apps móviles con **React Native + Expo**, integrando IA: reconocimiento de voz y verificación automática de información.
 - 🌱 Aprendiendo fundamentos de **C++** y buscando mi certificación **Six Sigma Green Belt**.
 - 💬 Escríbeme sobre automatización, mejora de procesos o proyectos open source.
@@ -36,7 +37,7 @@
 ### 🚀 Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,kotlin,powershell,html,git,vscode,windows&theme=dark" alt="Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,kotlin,powershell,sqlite,html,git,githubactions,vscode,windows&theme=dark" alt="Stack"/>
 </p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:D4AF37,100:0D0D0D&height=3" width="100%"/></p>
@@ -46,6 +47,34 @@
 <table>
   <tr>
     <td width="60%">
+      <a href="https://github.com/Sherlock182/sistema-ventas-tienda"><strong>Sistema de Ventas para Tienda (POS)</strong></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/last-commit/Sherlock182/sistema-ventas-tienda?style=flat-square&color=3A2C0A&labelColor=0D0D0D" alt="Último commit"/>
+      <br/>
+      Punto de venta para tiendas y abarroterías que funciona en Excel para Windows y guarda los datos en SQLite. Caja con lector de código de barras y teclas rápidas, inventario con compras, costo promedio, lotes y vencimientos, corte de caja con arqueo, fiado con abonos, devoluciones parciales escaneando el ticket, dashboard de ventas y ganancias, usuarios administrador/cajero y temas de colores. Se descarga como carpeta lista para usar, con el driver de SQLite incluido.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/VBA-867DB1?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sherlock182/asistente-virtual-educativo"><strong>Asistente Virtual Educativo</strong></a>
+      &nbsp;
+      <a href="https://github.com/Sherlock182/asistente-virtual-educativo/releases"><img src="https://img.shields.io/github/v/release/Sherlock182/asistente-virtual-educativo?style=flat-square&color=B8912F&labelColor=0D0D0D" alt="Versión"/></a>
+      <img src="https://img.shields.io/github/last-commit/Sherlock182/asistente-virtual-educativo?style=flat-square&color=3A2C0A&labelColor=0D0D0D" alt="Último commit"/>
+      <br/>
+      App de escritorio para Windows que apoya el trabajo diario de un docente: chat con IA (Groq) con lectura en voz alta, recordatorios con aviso por voz, control de asistencia y notas sincronizado con Excel, calendario, juegos educativos para imprimir (sopa de letras, laberinto, ahorcado, crucigrama) y editor de PDF. Se descarga como .exe y se actualiza sola desde GitHub.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tkinter-2A2A2A?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/Sherlock182/Biblioteca-Digital"><strong>Biblioteca Digital</strong></a>
       &nbsp;
       <a href="https://github.com/Sherlock182/Biblioteca-Digital/releases"><img src="https://img.shields.io/github/v/release/Sherlock182/Biblioteca-Digital?style=flat-square&color=B8912F&labelColor=0D0D0D" alt="Versión"/></a>
@@ -58,6 +87,30 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/PDF.js-EC1C24?style=flat-square&logo=mozilla&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sherlock182/biblia-rv1960-json"><strong>Biblia Reina-Valera 1960 en JSON</strong></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/last-commit/Sherlock182/biblia-rv1960-json?style=flat-square&color=3A2C0A&labelColor=0D0D0D" alt="Último commit"/>
+      <br/>
+      La Biblia Reina-Valera 1960 completa en un solo archivo JSON: 66 libros, 1 189 capítulos y 31 104 versículos, con los títulos de sección. Revisada versículo por versículo; lista para usar en apps y páginas web.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Open%20Data-D4AF37?style=flat-square&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Sherlock182/biblia-etiope-json"><strong>La Biblia Etíope en JSON</strong></a>
+      &nbsp;
+      <img src="https://img.shields.io/github/last-commit/Sherlock182/biblia-etiope-json?style=flat-square&color=3A2C0A&labelColor=0D0D0D" alt="Último commit"/>
+      <br/>
+      La Biblia Etíope completa en español en un solo archivo JSON: los 88 libros del canon etíope (Antiguo, Nuevo y 22 libros apócrifos), 39 886 versículos, corregida y con 1, 2 y 3 Meqabyan traducidos de nuevo desde el original.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Open%20Data-D4AF37?style=flat-square&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -147,6 +200,9 @@
 - [x] Publicar extensión Google-Doodle
 - [x] Lanzar mi primera app móvil con React Native
 - [x] Publicar una plantilla de tema para Ventoy
+- [x] Publicar un asistente virtual para docentes con IA
+- [x] Publicar las Biblias RV1960 y Etíope en JSON
+- [x] Publicar un sistema de ventas (POS) en Excel + SQLite
 - [ ] Crear una interfaz gráfica en PowerShell
 - [ ] Automatizar instalación de herramientas comunes
 - [ ] Obtener certificación Six Sigma Green Belt
